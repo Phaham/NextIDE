@@ -1,4 +1,4 @@
-<h1 align="center">✨ SaaS Code Editor - Next.js 15 ✨</h1>
+<h1 align="left">NextIDE | A Cloud Code Editor</h1>
 
 ![Demo App](/public/nextIde-pic1.png)
 ![Demo App](/public/nextIde-pic2.png)
